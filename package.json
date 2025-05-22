@@ -1,0 +1,18 @@
+{
+  "name": "modulos",
+  "version": "1.0.0",
+  "main": "operation.js",
+  "type": "module",
+  "scripts": {
+    "os": "nodemon operation-system.js",
+    "path": "nodemon path.js",
+    "crypto": "nodemon criptografia.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
